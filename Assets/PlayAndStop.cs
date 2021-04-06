@@ -54,7 +54,7 @@ public class PlayAndStop : MonoBehaviour
         mainInputField.gameObject.SetActive(true);
         playText.gameObject.SetActive(false);
         playButtonIcon.sprite = playIcon;//change the icon indicating that we can play
-
+        playText.gameObject.GetComponent<RectTransform>().anchoredPosition = new Vector2(playText.gameObject.GetComponent<RectTransform>().anchoredPosition.x, -30);
         currentlyPlaying = false;
     }
 
