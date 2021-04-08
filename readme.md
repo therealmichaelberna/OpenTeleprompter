@@ -3,6 +3,8 @@ This is a free and open source teleprompter program.
 
 ## Demonstration
 https://youtu.be/UVl99xXo8YQ
+
+
 ![Type or paste whatever text you want](/screenshots/standard.PNG?raw=true "Text input")
 ![Mirrored text](/screenshots/mirrored.PNG?raw=true "mirrored text")
 ![Easily configurable settings](/screenshots/settings.PNG?raw=true "Settings")
